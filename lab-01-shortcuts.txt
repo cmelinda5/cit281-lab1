@@ -1,0 +1,38 @@
+/*
+    CIT 281 Lab 1
+    Name: Melinda
+*/
+
+/*
+1: ctrl + c
+
+2: ctrl + v
+
+3: ctrl + x
+
+4: ctrl + s
+
+5: shift + alt + a
+
+6: ctrl + /
+
+7: ctrl + right arrow (->)
+
+8: ctrl + left arrow (<-)
+
+9: ctrl + shift + right arrow (->)
+
+10: ctrl + shift + left arrow (<-)
+
+11: ctrl + a
+
+12: ctrl + l
+
+13: home
+
+14: end 
+
+15: ctrl + home 
+
+*/
+
