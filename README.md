@@ -21,5 +21,5 @@
 ### Directory listing of folders in cit281 folder ### 
 ![Directory listing of folders in cit281 folder](lab-01-folders.PNG)
 
-### Executing file using node in VSCode terminal ### 
+### Executing code using node in VSCode terminal ### 
 ![Executing file using node in VSCode terminal](lab-01-node.PNG)
