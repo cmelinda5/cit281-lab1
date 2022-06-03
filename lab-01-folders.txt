@@ -1,0 +1,17 @@
+
+    Directory: C:\Users\Melinda\Documents\cit281
+
+
+Mode                 LastWriteTime         Length Name                                         
+----                 -------------         ------ ----                                         
+d-----          4/5/2022   3:44 PM                p1                                           
+d-----         3/31/2022   1:21 PM                p2                                           
+d-----         3/31/2022   1:21 PM                p3                                           
+d-----         3/31/2022   1:21 PM                p4                                           
+d-----         3/31/2022   1:21 PM                p5                                           
+d-----         3/31/2022   1:21 PM                p6                                           
+d-----         3/31/2022   1:21 PM                p7                                           
+d-----         3/31/2022   1:21 PM                p8                                           
+-a----          4/5/2022   3:45 PM              0 lab-01-folders.txt                           
+
+
